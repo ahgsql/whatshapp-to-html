@@ -5,7 +5,7 @@ A command-line tool to convert WhatsApp chat exports to HTML format.
 ## Installation
 
 To install the package globally, run:
-`npm install -g whatsapp-to-html`
+`npm install -g whatsappchat-to-html`
 
 ## Usage
 

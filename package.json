@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-to-html",
+  "name": "whatsappchat-to-html",
   "version": "1.0.0",
   "description": "A CLI tool to convert WhatsApp chat exports to HTML",
   "main": "dist/index.cjs.js",
